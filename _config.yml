@@ -34,12 +34,12 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+#twitter: oi_teus
 # google: mygoogle
-# instagram: myinstagram
+instagram: matt_lackome
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: matt-lack
 # youtube: myyoutube
 # spotify: myspotify
 github: mattlack
@@ -48,24 +48,18 @@ github: mattlack
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: mattlack
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: mateus.lackome@gmail.com
 
 authors:
-    johndoe:
+    mattlack:
         name: Mateus Silva
         bio: Teste
         external-image: false
         picture: assets/images/profile.jpg
         twitter: oi_teus
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
