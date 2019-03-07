@@ -55,11 +55,11 @@ email: mateus.lackome@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Mateus Silva
+        bio: Teste
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: oi_teus
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
